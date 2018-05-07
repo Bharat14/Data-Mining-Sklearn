@@ -1,0 +1,11 @@
+c1,c2,c3,c4
+a,b,c,
+,b,c,
+a,,,d
+,b,c,d
+a,,c,d
+a,,c,
+a,b,c,d
+,b,c,
+a,b,,
+,,,d
